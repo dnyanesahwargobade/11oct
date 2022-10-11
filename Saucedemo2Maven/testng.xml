@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="2" parallel="classes" name="FirefoxTest">
+    <classes>
+      <class name="Com.SauceDemeoProject_TESTCLASS.TC04verifyBagProductFunctionalityTestclass"/>
+      <class name="Com.SauceDemeoProject_TESTCLASS.TESTclass"/>
+      <class name="Com.SauceDemeoProject_TESTCLASS.TC01Verify_LoginFunctionalityTestclass"/>
+      <class name="Com.SauceDemeoProject_TESTCLASS.TC06_verifyFiltertestclass"/>
+      <class name="Com.SauceDemeoProject_TESTCLASS.TC02Verify_LogoutFunctionalityTestclass"/>
+      <class name="Com.SauceDemeoProject_TESTCLASS.TC03VerifyAddtoCartAllProductFunctionalityTestclass"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

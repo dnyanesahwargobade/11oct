@@ -1,0 +1,776 @@
+2022-10-10 13:48:31,940  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:48:32,069  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:48:33,643  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:48:33,804  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:48:33,888  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:48:34,013  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:48:34,396  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:48:34,396  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 13:48:35,188  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:48:35,315  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:48:35,555  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:48:35,696  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:48:35,783  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:48:35,892  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:48:36,234  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:48:36,234  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 13:48:37,032  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:48:37,161  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:48:37,412  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:48:37,543  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:48:37,632  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:48:37,734  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:48:37,999  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:48:37,999  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 13:48:38,837  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:48:38,960  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:48:39,197  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:48:39,325  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:48:39,403  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:48:39,516  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:48:39,826  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:48:39,827  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 13:48:40,657  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:48:40,781  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:48:41,013  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:48:41,135  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:48:41,224  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:48:41,339  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:48:41,597  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:48:41,598  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 13:48:42,404  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:48:42,528  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:48:42,754  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:48:42,867  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:48:42,934  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:48:43,033  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:48:43,223  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:48:43,224  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 13:48:43,923  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:48:44,041  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:48:44,248  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:48:44,338  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:48:44,395  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:48:44,485  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:48:44,647  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:48:44,647  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 13:48:46,798  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:48:46,915  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:48:47,124  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:48:47,244  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:48:47,312  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:48:47,394  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:48:47,587  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:48:47,588  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 13:48:48,250  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:48:48,378  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:48:48,584  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:48:48,717  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:48:48,786  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:48:48,900  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:48:49,109  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:48:49,110  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 13:55:49,085  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:55:49,214  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:55:49,434  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:55:49,591  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:55:49,678  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:55:49,793  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:55:49,993  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:55:49,994  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 13:55:50,785  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:55:50,918  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:55:51,200  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:55:51,315  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:55:51,401  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:55:51,514  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:55:51,835  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:55:51,835  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 13:55:52,666  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:55:52,790  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:55:53,076  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:55:53,192  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:55:53,269  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:55:53,391  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:55:53,636  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:55:53,636  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 13:55:54,402  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:55:54,525  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:55:54,796  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:55:54,923  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:55:55,007  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:55:55,118  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:55:55,391  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:55:55,392  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 13:55:56,106  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 13:55:56,232  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 13:55:56,477  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 13:55:56,599  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 13:55:56,668  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 13:55:56,759  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 13:55:56,936  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 13:55:56,937  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 14:00:40,624  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 14:00:40,755  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 14:00:40,956  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 14:00:41,107  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 14:00:41,201  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 14:00:41,334  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 14:00:41,660  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 14:00:41,661  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 14:01:05,424  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 14:01:05,551  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 14:01:05,779  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 14:01:05,949  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 14:01:06,055  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 14:01:06,228  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 14:01:06,937  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 14:01:06,938  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 14:01:21,294  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 14:01:21,422  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 14:01:21,655  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 14:01:21,822  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 14:01:21,911  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 14:01:22,044  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 14:01:22,308  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 14:01:22,309  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 14:01:23,143  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 14:01:23,277  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 14:01:23,506  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 14:01:23,633  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 14:01:23,720  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 14:01:23,846  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 14:01:24,320  INFO [main] Saucedemo2Maven:52 - actualproduct>6
+2022-10-10 14:01:24,321  INFO [main] Saucedemo2Maven:54 - apply validation
+2022-10-10 14:01:24,520  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 14:01:24,521  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 14:01:25,366  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 14:01:25,496  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 14:01:25,706  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 14:01:25,855  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 14:01:25,937  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 14:01:26,060  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 14:01:26,572  INFO [main] Saucedemo2Maven:36 - apply the validation
+2022-10-10 14:01:26,811  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 14:01:26,811  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 14:01:27,529  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 14:01:27,656  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 14:01:27,885  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 14:01:28,016  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 14:01:28,110  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 14:01:28,237  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 14:01:28,587  INFO [main] Saucedemo2Maven:70 - actualproduct>1
+2022-10-10 14:01:28,588  INFO [main] Saucedemo2Maven:72 - apply validation
+2022-10-10 14:01:28,845  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 14:01:28,845  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 14:01:29,573  INFO [main] Saucedemo2Maven:26 - browser is opened
+2022-10-10 14:01:29,692  INFO [main] Saucedemo2Maven:29 - Browser is maximized
+2022-10-10 14:01:30,008  INFO [main] Saucedemo2Maven:32 - sauce demo url is opened
+2022-10-10 14:01:30,110  INFO [main] Saucedemo2Maven:40 - username enter
+2022-10-10 14:01:30,176  INFO [main] Saucedemo2Maven:43 - password enter
+2022-10-10 14:01:30,272  INFO [main] Saucedemo2Maven:46 - click login button 
+2022-10-10 14:01:30,624  INFO [main] Saucedemo2Maven:84 - click on cart method 
+2022-10-10 14:01:31,017  INFO [main] Saucedemo2Maven:101 - apply validation
+2022-10-10 14:01:31,277  INFO [main] Saucedemo2Maven:53 -  browser is closed
+2022-10-10 14:01:31,278  INFO [main] Saucedemo2Maven:55 - end of program
+2022-10-10 14:06:45,103  INFO [main] Saucedemo2Maven:27 - browser is opened
+2022-10-10 14:06:45,112  INFO [main] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 14:06:45,359  INFO [main] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 14:06:45,520  INFO [main] Saucedemo2Maven:41 - username enter
+2022-10-10 14:06:45,580  INFO [main] Saucedemo2Maven:44 - password enter
+2022-10-10 14:06:45,889  INFO [main] Saucedemo2Maven:47 - click login button 
+2022-10-10 14:06:46,942  INFO [main] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 14:06:46,942  INFO [main] Saucedemo2Maven:56 - end of program
+2022-10-10 14:07:11,564  INFO [main] Saucedemo2Maven:27 - browser is opened
+2022-10-10 14:07:11,577  INFO [main] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 14:07:11,921  INFO [main] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 14:07:12,063  INFO [main] Saucedemo2Maven:41 - username enter
+2022-10-10 14:07:12,109  INFO [main] Saucedemo2Maven:44 - password enter
+2022-10-10 14:07:12,414  INFO [main] Saucedemo2Maven:47 - click login button 
+2022-10-10 14:07:13,392  INFO [main] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 14:07:13,392  INFO [main] Saucedemo2Maven:56 - end of program
+2022-10-10 14:13:06,467  INFO [main] Saucedemo2Maven:27 - browser is opened
+2022-10-10 14:13:06,478  INFO [main] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 14:13:06,790  INFO [main] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 14:13:06,937  INFO [main] Saucedemo2Maven:41 - username enter
+2022-10-10 14:13:06,971  INFO [main] Saucedemo2Maven:44 - password enter
+2022-10-10 14:13:07,282  INFO [main] Saucedemo2Maven:47 - click login button 
+2022-10-10 14:13:08,458  INFO [main] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 14:13:08,458  INFO [main] Saucedemo2Maven:56 - end of program
+2022-10-10 14:21:29,340  INFO [main] Saucedemo2Maven:27 - browser is opened
+2022-10-10 14:21:29,352  INFO [main] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 14:21:29,639  INFO [main] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 14:21:29,792  INFO [main] Saucedemo2Maven:41 - username enter
+2022-10-10 14:21:29,833  INFO [main] Saucedemo2Maven:44 - password enter
+2022-10-10 14:21:30,145  INFO [main] Saucedemo2Maven:47 - click login button 
+2022-10-10 14:21:31,384  INFO [main] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 14:21:31,384  INFO [main] Saucedemo2Maven:56 - end of program
+2022-10-10 14:21:50,291  INFO [main] Saucedemo2Maven:27 - browser is opened
+2022-10-10 14:21:50,303  INFO [main] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 14:21:50,569  INFO [main] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 14:21:50,698  INFO [main] Saucedemo2Maven:41 - username enter
+2022-10-10 14:21:50,759  INFO [main] Saucedemo2Maven:44 - password enter
+2022-10-10 14:21:51,089  INFO [main] Saucedemo2Maven:47 - click login button 
+2022-10-10 14:21:52,443  INFO [main] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 14:21:52,443  INFO [main] Saucedemo2Maven:56 - end of program
+2022-10-10 16:46:48,514  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:46:48,789  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:46:49,350  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:46:49,452  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:46:49,516  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:46:49,839  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:46:52,455  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:46:52,455  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:46:55,397  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:46:55,653  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:46:56,115  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:46:56,181  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:46:56,217  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:46:56,483  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:46:57,338  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:46:57,339  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:46:59,759  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:47:00,023  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:47:00,419  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:47:00,494  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:47:00,528  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:47:00,850  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:47:02,250  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:47:02,250  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:47:04,765  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:47:05,023  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:47:05,416  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:47:05,510  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:47:05,550  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:47:05,847  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:47:06,678  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:47:06,678  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:47:09,212  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:47:09,468  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:47:09,894  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:47:09,961  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:47:10,015  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:47:10,278  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:47:11,125  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:47:11,125  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:47:13,575  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:47:13,840  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:47:14,152  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:47:14,247  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:47:14,279  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:47:14,551  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:47:15,967  INFO [TestNG-test=Test-2] Saucedemo2Maven:52 - actualproduct>6
+2022-10-10 16:47:15,967  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 - apply validation
+2022-10-10 16:47:16,987  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:47:16,988  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:47:19,916  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:47:20,174  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:47:20,712  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:47:20,784  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:47:20,829  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:47:21,114  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:47:21,608  INFO [TestNG-test=Test-2] Saucedemo2Maven:36 - apply the validation
+2022-10-10 16:47:22,610  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:47:22,610  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:47:25,478  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:47:25,742  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:47:26,099  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:47:26,164  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:47:26,201  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:47:26,493  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:47:27,006  INFO [TestNG-test=Test-2] Saucedemo2Maven:70 - actualproduct>1
+2022-10-10 16:47:27,007  INFO [TestNG-test=Test-2] Saucedemo2Maven:72 - apply validation
+2022-10-10 16:47:27,959  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:47:27,959  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:47:30,437  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:47:30,712  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:47:31,095  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:47:31,151  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:47:31,180  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:47:31,461  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:47:31,942  INFO [TestNG-test=Test-2] Saucedemo2Maven:84 - click on cart method 
+2022-10-10 16:47:32,835  INFO [TestNG-test=Test-2] Saucedemo2Maven:101 - apply validation
+2022-10-10 16:47:33,837  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:47:33,837  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:51:48,698  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:51:48,850  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:51:49,374  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:51:49,478  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:51:49,595  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:51:49,774  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:51:50,808  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:51:50,821  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:51:51,073  INFO [TestNG-test=Test-1] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:51:51,225  INFO [TestNG-test=Test-1] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:51:51,824  INFO [TestNG-test=Test-1] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:51:51,966  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:51:52,018  INFO [TestNG-test=Test-1] Saucedemo2Maven:41 - username enter
+2022-10-10 16:51:52,116  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:51:52,139  INFO [TestNG-test=Test-1] Saucedemo2Maven:44 - password enter
+2022-10-10 16:51:52,289  INFO [TestNG-test=Test-1] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:51:52,735  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:51:52,991  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:51:53,130  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:51:53,215  INFO [TestNG-test=Test-1] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:51:53,216  INFO [TestNG-test=Test-1] Saucedemo2Maven:56 - end of program
+2022-10-10 16:51:53,323  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:51:54,046  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:51:54,047  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:51:54,361  INFO [TestNG-test=Test-1] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:51:54,493  INFO [TestNG-test=Test-1] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:51:55,029  INFO [TestNG-test=Test-1] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:51:55,095  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:51:55,200  INFO [TestNG-test=Test-1] Saucedemo2Maven:41 - username enter
+2022-10-10 16:51:55,235  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:51:55,320  INFO [TestNG-test=Test-1] Saucedemo2Maven:44 - password enter
+2022-10-10 16:51:55,481  INFO [TestNG-test=Test-1] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:51:55,663  INFO [TestNG-test=Test-1] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:51:55,664  INFO [TestNG-test=Test-1] Saucedemo2Maven:56 - end of program
+2022-10-10 16:51:55,806  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:51:55,900  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:51:55,973  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:51:56,072  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:51:56,281  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:51:56,282  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:51:56,908  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:51:57,036  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:51:57,614  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:51:57,692  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:51:57,754  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:51:57,834  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:51:58,109  INFO [TestNG-test=Test-2] Saucedemo2Maven:52 - actualproduct>6
+2022-10-10 16:51:58,109  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 - apply validation
+2022-10-10 16:51:58,283  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:51:58,283  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:51:58,955  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:51:59,089  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:51:59,835  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:51:59,912  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:51:59,980  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:52:00,066  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:52:00,372  INFO [TestNG-test=Test-2] Saucedemo2Maven:36 - apply the validation
+2022-10-10 16:52:00,538  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:52:00,538  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:52:01,221  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:52:01,358  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:52:01,974  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:52:02,070  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:52:02,128  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:52:02,208  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:52:02,386  INFO [TestNG-test=Test-2] Saucedemo2Maven:70 - actualproduct>1
+2022-10-10 16:52:02,386  INFO [TestNG-test=Test-2] Saucedemo2Maven:72 - apply validation
+2022-10-10 16:52:02,546  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:52:02,547  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:52:03,166  INFO [TestNG-test=Test-2] Saucedemo2Maven:27 - browser is opened
+2022-10-10 16:52:03,288  INFO [TestNG-test=Test-2] Saucedemo2Maven:30 - Browser is maximized
+2022-10-10 16:52:03,525  INFO [TestNG-test=Test-2] Saucedemo2Maven:33 - sauce demo url is opened
+2022-10-10 16:52:03,643  INFO [TestNG-test=Test-2] Saucedemo2Maven:41 - username enter
+2022-10-10 16:52:03,718  INFO [TestNG-test=Test-2] Saucedemo2Maven:44 - password enter
+2022-10-10 16:52:03,801  INFO [TestNG-test=Test-2] Saucedemo2Maven:47 - click login button 
+2022-10-10 16:52:03,958  INFO [TestNG-test=Test-2] Saucedemo2Maven:84 - click on cart method 
+2022-10-10 16:52:04,377  INFO [TestNG-test=Test-2] Saucedemo2Maven:101 - apply validation
+2022-10-10 16:52:04,546  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 -  browser is closed
+2022-10-10 16:52:04,547  INFO [TestNG-test=Test-2] Saucedemo2Maven:56 - end of program
+2022-10-10 16:59:38,404  INFO [TestNG-test=Test-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 16:59:38,550  INFO [TestNG-test=Test-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 16:59:38,899  INFO [TestNG-test=Test-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 16:59:39,113  INFO [TestNG-test=Test-2] Saucedemo2Maven:51 - username enter
+2022-10-10 16:59:39,271  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 - password enter
+2022-10-10 16:59:39,439  INFO [TestNG-test=Test-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 16:59:40,691  INFO [TestNG-test=Test-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 16:59:40,692  INFO [TestNG-test=Test-2] Saucedemo2Maven:66 - end of program
+2022-10-10 16:59:41,260  INFO [TestNG-test=Test-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 16:59:41,590  INFO [TestNG-test=Test-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 16:59:41,720  INFO [TestNG-test=Test-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 16:59:41,875  INFO [TestNG-test=Test-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 16:59:41,935  INFO [TestNG-test=Test-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 16:59:42,103  INFO [TestNG-test=Test-1] Saucedemo2Maven:51 - username enter
+2022-10-10 16:59:42,182  INFO [TestNG-test=Test-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 16:59:42,278  INFO [TestNG-test=Test-1] Saucedemo2Maven:54 - password enter
+2022-10-10 16:59:42,376  INFO [TestNG-test=Test-2] Saucedemo2Maven:51 - username enter
+2022-10-10 16:59:42,449  INFO [TestNG-test=Test-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 16:59:42,541  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 - password enter
+2022-10-10 16:59:42,866  INFO [TestNG-test=Test-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 16:59:43,785  INFO [TestNG-test=Test-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 16:59:43,787  INFO [TestNG-test=Test-2] Saucedemo2Maven:66 - end of program
+2022-10-10 16:59:43,801  INFO [TestNG-test=Test-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 16:59:43,801  INFO [TestNG-test=Test-1] Saucedemo2Maven:66 - end of program
+2022-10-10 16:59:44,659  INFO [TestNG-test=Test-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 16:59:44,665  INFO [TestNG-test=Test-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 16:59:44,822  INFO [TestNG-test=Test-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 16:59:44,857  INFO [TestNG-test=Test-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 16:59:45,214  INFO [TestNG-test=Test-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 16:59:45,364  INFO [TestNG-test=Test-1] Saucedemo2Maven:51 - username enter
+2022-10-10 16:59:45,463  INFO [TestNG-test=Test-1] Saucedemo2Maven:54 - password enter
+2022-10-10 16:59:45,465  INFO [TestNG-test=Test-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 16:59:45,640  INFO [TestNG-test=Test-2] Saucedemo2Maven:51 - username enter
+2022-10-10 16:59:45,658  INFO [TestNG-test=Test-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 16:59:45,835  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 - password enter
+2022-10-10 16:59:45,959  INFO [TestNG-test=Test-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 16:59:45,960  INFO [TestNG-test=Test-1] Saucedemo2Maven:66 - end of program
+2022-10-10 16:59:45,996  INFO [TestNG-test=Test-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 16:59:46,249  INFO [TestNG-test=Test-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 16:59:46,249  INFO [TestNG-test=Test-2] Saucedemo2Maven:66 - end of program
+2022-10-10 16:59:46,922  INFO [TestNG-test=Test-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 16:59:47,059  INFO [TestNG-test=Test-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 16:59:47,357  INFO [TestNG-test=Test-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 16:59:47,476  INFO [TestNG-test=Test-1] Saucedemo2Maven:51 - username enter
+2022-10-10 16:59:47,552  INFO [TestNG-test=Test-1] Saucedemo2Maven:54 - password enter
+2022-10-10 16:59:47,649  INFO [TestNG-test=Test-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 16:59:48,139  INFO [TestNG-test=Test-1] Saucedemo2Maven:52 - actualproduct>6
+2022-10-10 16:59:48,139  INFO [TestNG-test=Test-1] Saucedemo2Maven:54 - apply validation
+2022-10-10 16:59:48,284  INFO [TestNG-test=Test-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 16:59:48,284  INFO [TestNG-test=Test-1] Saucedemo2Maven:66 - end of program
+2022-10-10 16:59:49,012  INFO [TestNG-test=Test-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 16:59:49,137  INFO [TestNG-test=Test-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 16:59:49,395  INFO [TestNG-test=Test-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 16:59:49,490  INFO [TestNG-test=Test-1] Saucedemo2Maven:51 - username enter
+2022-10-10 16:59:49,552  INFO [TestNG-test=Test-1] Saucedemo2Maven:54 - password enter
+2022-10-10 16:59:49,645  INFO [TestNG-test=Test-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 16:59:49,883  INFO [TestNG-test=Test-1] Saucedemo2Maven:36 - apply the validation
+2022-10-10 16:59:50,070  INFO [TestNG-test=Test-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 16:59:50,070  INFO [TestNG-test=Test-1] Saucedemo2Maven:66 - end of program
+2022-10-10 16:59:50,687  INFO [TestNG-test=Test-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 16:59:50,809  INFO [TestNG-test=Test-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 16:59:51,013  INFO [TestNG-test=Test-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 16:59:51,140  INFO [TestNG-test=Test-1] Saucedemo2Maven:51 - username enter
+2022-10-10 16:59:51,204  INFO [TestNG-test=Test-1] Saucedemo2Maven:54 - password enter
+2022-10-10 16:59:51,294  INFO [TestNG-test=Test-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 16:59:51,595  INFO [TestNG-test=Test-1] Saucedemo2Maven:70 - actualproduct>1
+2022-10-10 16:59:51,595  INFO [TestNG-test=Test-1] Saucedemo2Maven:72 - apply validation
+2022-10-10 16:59:51,767  INFO [TestNG-test=Test-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 16:59:51,767  INFO [TestNG-test=Test-1] Saucedemo2Maven:66 - end of program
+2022-10-10 16:59:52,391  INFO [TestNG-test=Test-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 16:59:52,512  INFO [TestNG-test=Test-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 16:59:52,777  INFO [TestNG-test=Test-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 16:59:52,858  INFO [TestNG-test=Test-1] Saucedemo2Maven:51 - username enter
+2022-10-10 16:59:52,921  INFO [TestNG-test=Test-1] Saucedemo2Maven:54 - password enter
+2022-10-10 16:59:53,016  INFO [TestNG-test=Test-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 16:59:53,285  INFO [TestNG-test=Test-1] Saucedemo2Maven:84 - click on cart method 
+2022-10-10 16:59:53,671  INFO [TestNG-test=Test-1] Saucedemo2Maven:101 - apply validation
+2022-10-10 16:59:53,829  INFO [TestNG-test=Test-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 16:59:53,830  INFO [TestNG-test=Test-1] Saucedemo2Maven:66 - end of program
+2022-10-10 17:00:55,915  INFO [TestNG-test=Test-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:00:56,179  INFO [TestNG-test=Test-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:00:56,677  INFO [TestNG-test=Test-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:00:56,845  INFO [TestNG-test=Test-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:00:56,929  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:00:57,268  INFO [TestNG-test=Test-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:00:57,670  INFO [TestNG-test=Test-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:00:57,930  INFO [TestNG-test=Test-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:00:58,296  INFO [TestNG-test=Test-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:00:58,425  INFO [TestNG-test=Test-1] Saucedemo2Maven:51 - username enter
+2022-10-10 17:00:58,476  INFO [TestNG-test=Test-1] Saucedemo2Maven:54 - password enter
+2022-10-10 17:00:58,765  INFO [TestNG-test=Test-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:01:00,212  INFO [TestNG-test=Test-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:01:00,212  INFO [TestNG-test=Test-1] Saucedemo2Maven:66 - end of program
+2022-10-10 17:01:00,505  INFO [TestNG-test=Test-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:01:00,506  INFO [TestNG-test=Test-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:01:04,151  INFO [TestNG-test=Test-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:01:04,299  INFO [TestNG-test=Test-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:01:04,410  INFO [TestNG-test=Test-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:01:04,556  INFO [TestNG-test=Test-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:01:05,000  INFO [TestNG-test=Test-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:01:05,030  INFO [TestNG-test=Test-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:01:05,169  INFO [TestNG-test=Test-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:01:05,215  INFO [TestNG-test=Test-1] Saucedemo2Maven:51 - username enter
+2022-10-10 17:01:05,277  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:01:05,313  INFO [TestNG-test=Test-1] Saucedemo2Maven:54 - password enter
+2022-10-10 17:01:05,678  INFO [TestNG-test=Test-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:01:05,993  INFO [TestNG-test=Test-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:01:06,898  INFO [TestNG-test=Test-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:01:06,898  INFO [TestNG-test=Test-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:01:07,412  INFO [TestNG-test=Test-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:01:07,412  INFO [TestNG-test=Test-1] Saucedemo2Maven:66 - end of program
+2022-10-10 17:01:10,158  INFO [TestNG-test=Test-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:01:10,421  INFO [TestNG-test=Test-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:01:11,001  INFO [TestNG-test=Test-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:01:11,119  INFO [TestNG-test=Test-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:01:11,178  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:01:11,531  INFO [TestNG-test=Test-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:01:12,435  INFO [TestNG-test=Test-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:01:12,435  INFO [TestNG-test=Test-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:01:14,990  INFO [TestNG-test=Test-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:01:15,247  INFO [TestNG-test=Test-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:01:15,565  INFO [TestNG-test=Test-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:01:15,663  INFO [TestNG-test=Test-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:01:15,692  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:01:16,005  INFO [TestNG-test=Test-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:01:17,329  INFO [TestNG-test=Test-2] Saucedemo2Maven:52 - actualproduct>6
+2022-10-10 17:01:17,330  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 - apply validation
+2022-10-10 17:01:18,194  INFO [TestNG-test=Test-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:01:18,194  INFO [TestNG-test=Test-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:01:20,873  INFO [TestNG-test=Test-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:01:21,132  INFO [TestNG-test=Test-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:01:21,505  INFO [TestNG-test=Test-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:01:21,599  INFO [TestNG-test=Test-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:01:21,640  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:01:21,965  INFO [TestNG-test=Test-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:01:22,441  INFO [TestNG-test=Test-2] Saucedemo2Maven:36 - apply the validation
+2022-10-10 17:01:23,294  INFO [TestNG-test=Test-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:01:23,294  INFO [TestNG-test=Test-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:01:25,838  INFO [TestNG-test=Test-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:01:26,103  INFO [TestNG-test=Test-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:01:26,464  INFO [TestNG-test=Test-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:01:26,555  INFO [TestNG-test=Test-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:01:26,589  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:01:26,881  INFO [TestNG-test=Test-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:01:27,393  INFO [TestNG-test=Test-2] Saucedemo2Maven:70 - actualproduct>1
+2022-10-10 17:01:27,393  INFO [TestNG-test=Test-2] Saucedemo2Maven:72 - apply validation
+2022-10-10 17:01:28,106  INFO [TestNG-test=Test-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:01:28,106  INFO [TestNG-test=Test-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:01:30,538  INFO [TestNG-test=Test-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:01:30,804  INFO [TestNG-test=Test-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:01:31,117  INFO [TestNG-test=Test-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:01:31,193  INFO [TestNG-test=Test-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:01:31,235  INFO [TestNG-test=Test-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:01:31,527  INFO [TestNG-test=Test-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:01:32,032  INFO [TestNG-test=Test-2] Saucedemo2Maven:84 - click on cart method 
+2022-10-10 17:01:32,832  INFO [TestNG-test=Test-2] Saucedemo2Maven:101 - apply validation
+2022-10-10 17:01:33,670  INFO [TestNG-test=Test-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:01:33,670  INFO [TestNG-test=Test-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:07:38,964  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:07:39,229  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:07:39,703  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:07:39,805  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:07:39,895  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:07:40,208  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:07:41,129  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:07:41,396  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:07:41,749  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:07:41,837  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:51 - username enter
+2022-10-10 17:07:41,878  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:54 - password enter
+2022-10-10 17:07:42,199  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:07:43,507  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:07:43,507  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:66 - end of program
+2022-10-10 17:07:43,615  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:07:43,615  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:07:46,594  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:07:46,688  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:07:46,947  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:07:47,303  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:07:47,388  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:51 - username enter
+2022-10-10 17:07:47,431  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:54 - password enter
+2022-10-10 17:07:47,748  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:07:47,752  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:07:48,341  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:07:48,470  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:07:48,540  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:07:48,833  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:07:49,393  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:07:49,393  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:66 - end of program
+2022-10-10 17:07:49,718  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:07:49,718  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:07:52,027  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:07:52,290  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:07:52,773  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:07:52,839  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:51 - username enter
+2022-10-10 17:07:52,871  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:54 - password enter
+2022-10-10 17:07:53,152  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:07:53,981  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:07:53,982  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:66 - end of program
+2022-10-10 17:07:56,485  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:07:56,749  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:07:57,238  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:07:57,333  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:51 - username enter
+2022-10-10 17:07:57,371  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:54 - password enter
+2022-10-10 17:07:57,632  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:07:58,977  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:52 - actualproduct>6
+2022-10-10 17:07:58,978  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:54 - apply validation
+2022-10-10 17:07:59,949  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:07:59,949  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:66 - end of program
+2022-10-10 17:08:02,359  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:08:02,615  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:08:02,938  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:08:03,009  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:51 - username enter
+2022-10-10 17:08:03,047  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:54 - password enter
+2022-10-10 17:08:03,338  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:08:03,808  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:36 - apply the validation
+2022-10-10 17:08:04,639  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:08:04,639  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:66 - end of program
+2022-10-10 17:08:07,047  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:08:07,312  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:08:07,583  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:08:07,663  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:51 - username enter
+2022-10-10 17:08:07,708  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:54 - password enter
+2022-10-10 17:08:08,005  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:08:08,533  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:70 - actualproduct>1
+2022-10-10 17:08:08,533  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:72 - apply validation
+2022-10-10 17:08:09,366  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:08:09,367  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:66 - end of program
+2022-10-10 17:08:11,660  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:08:11,924  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:08:12,136  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:08:12,216  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:51 - username enter
+2022-10-10 17:08:12,254  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:54 - password enter
+2022-10-10 17:08:12,511  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:08:12,986  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:84 - click on cart method 
+2022-10-10 17:08:13,782  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:101 - apply validation
+2022-10-10 17:08:14,788  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:08:14,788  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:66 - end of program
+2022-10-10 17:08:15,858  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:08:16,011  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:08:16,352  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:08:16,478  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:08:16,548  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:08:16,677  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:08:17,613  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:08:17,613  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:08:18,188  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:08:18,435  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:08:18,577  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:08:18,743  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:08:18,784  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:08:18,910  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:51 - username enter
+2022-10-10 17:08:19,048  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:54 - password enter
+2022-10-10 17:08:19,157  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:08:19,199  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:08:19,526  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:08:19,665  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:08:19,796  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:08:20,625  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:08:20,625  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:66 - end of program
+2022-10-10 17:08:20,735  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:08:20,735  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:08:21,593  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:08:21,696  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:08:21,771  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:08:21,848  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:08:22,101  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:08:22,219  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:08:22,261  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:51 - username enter
+2022-10-10 17:08:22,380  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:54 - password enter
+2022-10-10 17:08:22,389  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:08:22,501  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:08:22,525  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:08:22,702  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:08:22,829  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:08:22,830  INFO [TestNG-test=ChromeTest-1] Saucedemo2Maven:66 - end of program
+2022-10-10 17:08:22,969  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:08:22,969  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:08:23,639  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:08:23,758  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:08:24,092  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:08:24,209  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:08:24,290  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:08:24,383  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:08:24,864  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:52 - actualproduct>6
+2022-10-10 17:08:24,864  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:54 - apply validation
+2022-10-10 17:08:25,027  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:08:25,028  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:08:25,692  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:08:25,819  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:08:26,080  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:08:26,170  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:08:26,231  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:08:26,318  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:08:26,710  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:36 - apply the validation
+2022-10-10 17:08:26,918  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:08:26,918  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:08:27,540  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:08:27,678  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:08:27,961  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:08:28,037  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:08:28,107  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:08:28,202  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:08:28,452  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:70 - actualproduct>1
+2022-10-10 17:08:28,453  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:72 - apply validation
+2022-10-10 17:08:28,620  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:08:28,621  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:08:29,241  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:37 - browser is opened
+2022-10-10 17:08:29,366  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:40 - Browser is maximized
+2022-10-10 17:08:29,714  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:43 - sauce demo url is opened
+2022-10-10 17:08:29,803  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:51 - username enter
+2022-10-10 17:08:29,860  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:54 - password enter
+2022-10-10 17:08:29,944  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:57 - click login button 
+2022-10-10 17:08:30,149  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:84 - click on cart method 
+2022-10-10 17:08:30,567  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:101 - apply validation
+2022-10-10 17:08:30,751  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:64 -  browser is closed
+2022-10-10 17:08:30,752  INFO [TestNG-test=ChromeTest-2] Saucedemo2Maven:66 - end of program
+2022-10-10 17:37:59,251  INFO [main] Saucedemo2Maven:29 - browser is opened
+2022-10-10 17:37:59,396  INFO [main] Saucedemo2Maven:32 - Browser is maximized
+2022-10-10 17:38:00,084  INFO [main] Saucedemo2Maven:35 - sauce demo url is opened
+2022-10-10 17:38:00,263  INFO [main] Saucedemo2Maven:43 - username enter
+2022-10-10 17:38:00,353  INFO [main] Saucedemo2Maven:46 - password enter
+2022-10-10 17:38:00,470  INFO [main] Saucedemo2Maven:49 - click login button 
+2022-10-10 17:38:01,490  INFO [main] Saucedemo2Maven:56 -  browser is closed
+2022-10-10 17:38:01,491  INFO [main] Saucedemo2Maven:58 - end of program
+2022-10-10 17:39:22,543  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:29 - browser is opened
+2022-10-10 17:39:22,693  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:32 - Browser is maximized
+2022-10-10 17:39:23,314  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:35 - sauce demo url is opened
+2022-10-10 17:39:23,467  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:43 - username enter
+2022-10-10 17:39:23,563  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:46 - password enter
+2022-10-10 17:39:23,744  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:49 - click login button 
+2022-10-10 17:39:24,907  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:56 -  browser is closed
+2022-10-10 17:39:24,908  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:58 - end of program
+2022-10-10 17:39:25,531  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:29 - browser is opened
+2022-10-10 17:39:25,821  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:32 - Browser is maximized
+2022-10-10 17:39:25,969  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:29 - browser is opened
+2022-10-10 17:39:26,141  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:32 - Browser is maximized
+2022-10-10 17:39:26,211  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:35 - sauce demo url is opened
+2022-10-10 17:39:26,393  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:43 - username enter
+2022-10-10 17:39:26,484  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:46 - password enter
+2022-10-10 17:39:26,495  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:35 - sauce demo url is opened
+2022-10-10 17:39:26,680  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:43 - username enter
+2022-10-10 17:39:26,685  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:49 - click login button 
+2022-10-10 17:39:26,884  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:46 - password enter
+2022-10-10 17:39:27,061  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:49 - click login button 
+2022-10-10 17:39:27,798  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:56 -  browser is closed
+2022-10-10 17:39:27,799  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:58 - end of program
+2022-10-10 17:39:27,923  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:56 -  browser is closed
+2022-10-10 17:39:27,923  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:58 - end of program
+2022-10-10 17:39:28,721  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:29 - browser is opened
+2022-10-10 17:39:28,852  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:29 - browser is opened
+2022-10-10 17:39:28,910  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:32 - Browser is maximized
+2022-10-10 17:39:28,999  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:32 - Browser is maximized
+2022-10-10 17:39:29,464  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:35 - sauce demo url is opened
+2022-10-10 17:39:29,560  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:43 - username enter
+2022-10-10 17:39:29,578  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:35 - sauce demo url is opened
+2022-10-10 17:39:29,671  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:46 - password enter
+2022-10-10 17:39:29,714  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:43 - username enter
+2022-10-10 17:39:29,817  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:49 - click login button 
+2022-10-10 17:39:29,865  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:46 - password enter
+2022-10-10 17:39:30,020  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:49 - click login button 
+2022-10-10 17:39:30,035  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:56 -  browser is closed
+2022-10-10 17:39:30,036  INFO [TestNG-test=FirefoxTest-1] Saucedemo2Maven:58 - end of program
+2022-10-10 17:39:30,264  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:56 -  browser is closed
+2022-10-10 17:39:30,264  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:58 - end of program
+2022-10-10 17:39:30,929  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:29 - browser is opened
+2022-10-10 17:39:31,052  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:32 - Browser is maximized
+2022-10-10 17:39:31,302  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:35 - sauce demo url is opened
+2022-10-10 17:39:31,398  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:43 - username enter
+2022-10-10 17:39:31,475  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:46 - password enter
+2022-10-10 17:39:31,553  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:49 - click login button 
+2022-10-10 17:39:31,879  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:52 - actualproduct>6
+2022-10-10 17:39:31,880  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:54 - apply validation
+2022-10-10 17:39:32,034  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:56 -  browser is closed
+2022-10-10 17:39:32,035  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:58 - end of program
+2022-10-10 17:39:32,654  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:29 - browser is opened
+2022-10-10 17:39:32,778  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:32 - Browser is maximized
+2022-10-10 17:39:32,970  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:35 - sauce demo url is opened
+2022-10-10 17:39:33,056  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:43 - username enter
+2022-10-10 17:39:33,131  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:46 - password enter
+2022-10-10 17:39:33,212  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:49 - click login button 
+2022-10-10 17:39:33,523  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:36 - apply the validation
+2022-10-10 17:39:33,669  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:56 -  browser is closed
+2022-10-10 17:39:33,670  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:58 - end of program
+2022-10-10 17:39:34,336  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:29 - browser is opened
+2022-10-10 17:39:34,473  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:32 - Browser is maximized
+2022-10-10 17:39:34,757  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:35 - sauce demo url is opened
+2022-10-10 17:39:34,857  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:43 - username enter
+2022-10-10 17:39:34,915  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:46 - password enter
+2022-10-10 17:39:35,005  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:49 - click login button 
+2022-10-10 17:39:35,221  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:70 - actualproduct>1
+2022-10-10 17:39:35,221  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:72 - apply validation
+2022-10-10 17:39:35,373  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:56 -  browser is closed
+2022-10-10 17:39:35,373  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:58 - end of program
+2022-10-10 17:39:36,042  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:29 - browser is opened
+2022-10-10 17:39:36,165  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:32 - Browser is maximized
+2022-10-10 17:39:36,415  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:35 - sauce demo url is opened
+2022-10-10 17:39:36,519  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:43 - username enter
+2022-10-10 17:39:36,581  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:46 - password enter
+2022-10-10 17:39:36,671  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:49 - click login button 
+2022-10-10 17:39:36,873  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:84 - click on cart method 
+2022-10-10 17:39:37,261  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:101 - apply validation
+2022-10-10 17:39:37,415  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:56 -  browser is closed
+2022-10-10 17:39:37,415  INFO [TestNG-test=FirefoxTest-2] Saucedemo2Maven:58 - end of program

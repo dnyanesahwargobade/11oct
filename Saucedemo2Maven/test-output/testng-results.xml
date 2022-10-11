@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-10T17:39:20 IST" name="Suite" finished-at="2022-10-10T17:39:37 IST" duration-ms="16784">
+    <groups>
+    </groups>
+    <test started-at="2022-10-10T17:39:20 IST" name="FirefoxTest" finished-at="2022-10-10T17:39:37 IST" duration-ms="16784">
+      <class name="Com.SauceDemeoProject_TESTCLASS.TC06_verifyFiltertestclass">
+        <test-method signature="Filter()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TC06_verifyFiltertestclass@f5acb9d]" started-at="2022-10-10T17:39:20 IST" name="Filter" finished-at="2022-10-10T17:39:24 IST" duration-ms="3420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Filter -->
+      </class> <!-- Com.SauceDemeoProject_TESTCLASS.TC06_verifyFiltertestclass -->
+      <class name="Com.SauceDemeoProject_TESTCLASS.TC01Verify_LoginFunctionalityTestclass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TC01Verify_LoginFunctionalityTestclass@618425b5]" started-at="2022-10-10T17:39:27 IST" name="setup" finished-at="2022-10-10T17:39:29 IST" duration-ms="2018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLoginfunctionality()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TC01Verify_LoginFunctionalityTestclass@618425b5]" started-at="2022-10-10T17:39:29 IST" name="verifyLoginfunctionality" finished-at="2022-10-10T17:39:29 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginfunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TC01Verify_LoginFunctionalityTestclass@618425b5]" started-at="2022-10-10T17:39:29 IST" name="teardown" finished-at="2022-10-10T17:39:30 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Com.SauceDemeoProject_TESTCLASS.TC01Verify_LoginFunctionalityTestclass -->
+      <class name="Com.SauceDemeoProject_TESTCLASS.TC04verifyBagProductFunctionalityTestclass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TC04verifyBagProductFunctionalityTestclass@759d26fb]" started-at="2022-10-10T17:39:24 IST" name="setup" finished-at="2022-10-10T17:39:27 IST" duration-ms="2151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyBagProductFunctionality()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TC04verifyBagProductFunctionalityTestclass@759d26fb]" started-at="2022-10-10T17:39:27 IST" name="verifyBagProductFunctionality" finished-at="2022-10-10T17:39:27 IST" duration-ms="588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBagProductFunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TC04verifyBagProductFunctionalityTestclass@759d26fb]" started-at="2022-10-10T17:39:27 IST" name="teardown" finished-at="2022-10-10T17:39:27 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Com.SauceDemeoProject_TESTCLASS.TC04verifyBagProductFunctionalityTestclass -->
+      <class name="Com.SauceDemeoProject_TESTCLASS.TESTclass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:27 IST" name="setup" finished-at="2022-10-10T17:39:30 IST" duration-ms="2095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogin()[pri:1, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:30 IST" name="verifylogin" finished-at="2022-10-10T17:39:30 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:30 IST" name="teardown" finished-at="2022-10-10T17:39:30 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:30 IST" name="setup" finished-at="2022-10-10T17:39:31 IST" duration-ms="1289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyaddtocartallproduct()[pri:2, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:31 IST" name="verifyaddtocartallproduct" finished-at="2022-10-10T17:39:31 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyaddtocartallproduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:31 IST" name="teardown" finished-at="2022-10-10T17:39:32 IST" duration-ms="154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:32 IST" name="setup" finished-at="2022-10-10T17:39:33 IST" duration-ms="1177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifylogout()[pri:3, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:33 IST" name="verifylogout" finished-at="2022-10-10T17:39:33 IST" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:33 IST" name="teardown" finished-at="2022-10-10T17:39:33 IST" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:33 IST" name="setup" finished-at="2022-10-10T17:39:35 IST" duration-ms="1336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifybagproduct()[pri:4, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:35 IST" name="verifybagproduct" finished-at="2022-10-10T17:39:35 IST" duration-ms="215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifybagproduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:35 IST" name="teardown" finished-at="2022-10-10T17:39:35 IST" duration-ms="150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:35 IST" name="setup" finished-at="2022-10-10T17:39:36 IST" duration-ms="1297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifybuyproduct()[pri:5, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:36 IST" name="verifybuyproduct" finished-at="2022-10-10T17:39:37 IST" duration-ms="590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifybuyproduct -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TESTclass@18d87d80]" started-at="2022-10-10T17:39:37 IST" name="teardown" finished-at="2022-10-10T17:39:37 IST" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Com.SauceDemeoProject_TESTCLASS.TESTclass -->
+      <class name="Com.SauceDemeoProject_TESTCLASS.TC02Verify_LogoutFunctionalityTestclass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TC02Verify_LogoutFunctionalityTestclass@4fb3ee4e]" started-at="2022-10-10T17:39:24 IST" name="setup" finished-at="2022-10-10T17:39:26 IST" duration-ms="2544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Verify_LogoutFunctionality()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TC02Verify_LogoutFunctionalityTestclass@4fb3ee4e]" started-at="2022-10-10T17:39:26 IST" name="Verify_LogoutFunctionality" finished-at="2022-10-10T17:39:27 IST" duration-ms="883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_LogoutFunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TC02Verify_LogoutFunctionalityTestclass@4fb3ee4e]" started-at="2022-10-10T17:39:27 IST" name="teardown" finished-at="2022-10-10T17:39:27 IST" duration-ms="230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Com.SauceDemeoProject_TESTCLASS.TC02Verify_LogoutFunctionalityTestclass -->
+      <class name="Com.SauceDemeoProject_TESTCLASS.TC03VerifyAddtoCartAllProductFunctionalityTestclass">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TC03VerifyAddtoCartAllProductFunctionalityTestclass@5d7148e2]" started-at="2022-10-10T17:39:20 IST" name="setup" finished-at="2022-10-10T17:39:23 IST" duration-ms="3030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyAddtoCartAllProductFunctionality()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TC03VerifyAddtoCartAllProductFunctionalityTestclass@5d7148e2]" started-at="2022-10-10T17:39:23 IST" name="VerifyAddtoCartAllProductFunctionality" finished-at="2022-10-10T17:39:24 IST" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAddtoCartAllProductFunctionality -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Com.SauceDemeoProject_TESTCLASS.TC03VerifyAddtoCartAllProductFunctionalityTestclass@5d7148e2]" started-at="2022-10-10T17:39:24 IST" name="teardown" finished-at="2022-10-10T17:39:24 IST" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Com.SauceDemeoProject_TESTCLASS.TC03VerifyAddtoCartAllProductFunctionalityTestclass -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Suite -->
+</testng-results>
